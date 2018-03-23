@@ -2,6 +2,7 @@
 ===========================
 使用DataBinding进行view与model绑定
 ****
+| A | B |  
 |---|---|  
 | Author | 黄海 |  
 | Email | 1165441461@qq.com |  
